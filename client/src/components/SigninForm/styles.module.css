@@ -1,0 +1,14 @@
+.signinform {
+    text-align: center;
+}
+
+.socialbtns {
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+    margin-top: 20px;
+}
+
+.error {
+    color: red
+}
